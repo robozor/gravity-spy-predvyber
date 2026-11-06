@@ -1,4 +1,8 @@
-# Data (velké CSV / Parquet ze Zenodo)
+# Clanek a pracovni podklady (nejsou soucasti ADAS projektu)
+clanek/
+podklady/
+
+# Data (velke CSV / Parquet ze Zenodo)
 data/*.csv
 data/*.parquet
 data/*.zip
@@ -22,6 +26,8 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Dočasné
+# Docasne
 *.log
 *.tmp
+hotovo/
+obrazky/
