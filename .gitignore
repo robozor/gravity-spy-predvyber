@@ -1,0 +1,27 @@
+# Data (velké CSV / Parquet ze Zenodo)
+data/*.csv
+data/*.parquet
+data/*.zip
+!data/.gitkeep
+!data/README.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dočasné
+*.log
+*.tmp
